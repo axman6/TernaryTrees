@@ -1,5 +1,7 @@
-=== TernaryTrees
+TernaryTrees
+============
 
-== About
+About
+-----
 
 This package does some stuff
